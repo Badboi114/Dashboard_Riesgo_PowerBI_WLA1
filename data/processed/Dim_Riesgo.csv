@@ -1,0 +1,3 @@
+﻿ID_Riesgo,Estado_Riesgo,Descripcion,Etiqueta_ES,Color_HEX
+1,Good,Crédito pagado correctamente,Bueno,#2ECC71
+2,Bad,Crédito en mora / impago,Malo,#E74C3C
